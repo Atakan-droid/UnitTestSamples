@@ -1,0 +1,3 @@
+﻿C:\Users\ataka\RiderProjects\UdemyUnitTestCourse\XUnitTest.APP\Calculator.cs
+C:\Users\ataka\RiderProjects\UdemyUnitTestCourse\XUnitTest.APP\CalculatorService.cs
+C:\Users\ataka\RiderProjects\UdemyUnitTestCourse\XUnitTest.APP\ICalculatorService.cs
